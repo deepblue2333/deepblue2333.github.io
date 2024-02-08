@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume on MyBlog</title>
+    <link>https://zhouchengyu.top/zh/categories/resume/</link>
+    <description>Recent content in Resume on MyBlog</description>
+    <image>
+      <title>MyBlog</title>
+      <url>https://zhouchengyu.top/images/papermod-cover.png</url>
+      <link>https://zhouchengyu.top/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zhouchengyu.top/zh/categories/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>简历</title>
+      <link>https://zhouchengyu.top/zh/posts/resume_zh/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/zh/posts/resume_zh/</guid>
+      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+  </channel>
+</rss>

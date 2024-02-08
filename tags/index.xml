@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on MyBlog</title>
+    <link>https://zhouchengyu.top/tags/</link>
+    <description>Recent content in Tags on MyBlog</description>
+    <image>
+      <title>MyBlog</title>
+      <url>https://zhouchengyu.top/images/papermod-cover.png</url>
+      <link>https://zhouchengyu.top/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zhouchengyu.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>code</title>
+      <link>https://zhouchengyu.top/tags/code/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>gist</title>
+      <link>https://zhouchengyu.top/tags/gist/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/tags/gist/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>markdown</title>
+      <link>https://zhouchengyu.top/tags/markdown/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>syntax</title>
+      <link>https://zhouchengyu.top/tags/syntax/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/tags/syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docs</title>
+      <link>https://zhouchengyu.top/tags/docs/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/tags/docs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PaperMod</title>
+      <link>https://zhouchengyu.top/tags/papermod/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/tags/papermod/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
