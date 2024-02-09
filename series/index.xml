@@ -10,14 +10,14 @@
       <link>https://zhouchengyu.top/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <language>zh</language>
+    <lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhouchengyu.top/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Resume</title>
-      <link>https://zhouchengyu.top/series/resume/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhouchengyu.top/series/resume/</guid>
+      <title>Themes Guide</title>
+      <link>https://zhouchengyu.top/series/themes-guide/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/series/themes-guide/</guid>
       <description></description>
     </item>
     <item>
@@ -25,13 +25,6 @@
       <link>https://zhouchengyu.top/series/papermod/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://zhouchengyu.top/series/papermod/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes Guide</title>
-      <link>https://zhouchengyu.top/series/themes-guide/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://zhouchengyu.top/series/themes-guide/</guid>
       <description></description>
     </item>
   </channel>

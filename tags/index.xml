@@ -10,42 +10,21 @@
       <link>https://zhouchengyu.top/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <language>zh</language>
+    <lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhouchengyu.top/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>code</title>
-      <link>https://zhouchengyu.top/tags/code/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhouchengyu.top/tags/code/</guid>
+      <title>emoji</title>
+      <link>https://zhouchengyu.top/tags/emoji/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/tags/emoji/</guid>
       <description></description>
     </item>
     <item>
-      <title>gist</title>
-      <link>https://zhouchengyu.top/tags/gist/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhouchengyu.top/tags/gist/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>markdown</title>
-      <link>https://zhouchengyu.top/tags/markdown/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhouchengyu.top/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>syntax</title>
-      <link>https://zhouchengyu.top/tags/syntax/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhouchengyu.top/tags/syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Docs</title>
-      <link>https://zhouchengyu.top/tags/docs/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://zhouchengyu.top/tags/docs/</guid>
+      <title>文档格式</title>
+      <link>https://zhouchengyu.top/tags/%E6%96%87%E6%A1%A3%E6%A0%BC%E5%BC%8F/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/tags/%E6%96%87%E6%A1%A3%E6%A0%BC%E5%BC%8F/</guid>
       <description></description>
     </item>
     <item>
@@ -53,6 +32,13 @@
       <link>https://zhouchengyu.top/tags/papermod/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://zhouchengyu.top/tags/papermod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>syntax</title>
+      <link>https://zhouchengyu.top/tags/syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/tags/syntax/</guid>
       <description></description>
     </item>
   </channel>

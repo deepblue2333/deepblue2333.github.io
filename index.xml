@@ -10,57 +10,78 @@
       <link>https://zhouchengyu.top/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <language>zh</language>
+    <lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhouchengyu.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Install / Update PaperMod</title>
+      <title>安装/ 使用 PaperMod主题</title>
       <link>https://zhouchengyu.top/posts/papermod/papermod-installation/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://zhouchengyu.top/posts/papermod/papermod-installation/</guid>
-      <description>Read aboout Install and Update instructions and sampled configuration templates</description>
+      <description>阅读有关安装和更新说明以及示例配置模板的信息。</description>
     </item>
     <item>
-      <title>Features / Mods</title>
+      <title>特点 / Mods</title>
       <link>https://zhouchengyu.top/posts/papermod/papermod-features/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://zhouchengyu.top/posts/papermod/papermod-features/</guid>
       <description>Learn About All Features in PaperMod</description>
     </item>
     <item>
-      <title>FAQs / How To&#39;s Guide</title>
-      <link>https://zhouchengyu.top/posts/papermod/papermod-faq/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://zhouchengyu.top/posts/papermod/papermod-faq/</guid>
-      <description>We&amp;rsquo;ll try to answer frequently asked qestions by users.</description>
+      <title>code格式</title>
+      <link>https://zhouchengyu.top/posts/syntax/code_syntax/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/posts/syntax/code_syntax/</guid>
+      <description>展示基本代码语法和HTML元素格式的示例文章。</description>
     </item>
     <item>
-      <title>Social-Icons / Share-Icons</title>
-      <link>https://zhouchengyu.top/posts/papermod/papermod-icons/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://zhouchengyu.top/posts/papermod/papermod-icons/</guid>
-      <description>List of all Icons supported by PaperMod</description>
+      <title>Emoji支持</title>
+      <link>https://zhouchengyu.top/posts/syntax/emoji-support/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/posts/syntax/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
     </item>
     <item>
-      <title>Variables | Front Matter</title>
+      <title>Markdown格式</title>
+      <link>https://zhouchengyu.top/posts/syntax/markdown-syntax/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/posts/syntax/markdown-syntax/</guid>
+      <description>展示基本的Markdown语法和HTML元素格式的示例文章。</description>
+    </item>
+    <item>
+      <title>变量 | 前言</title>
       <link>https://zhouchengyu.top/posts/papermod/papermod-variables/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://zhouchengyu.top/posts/papermod/papermod-variables/</guid>
       <description>List of Front Matter variables used by PaperMod</description>
     </item>
     <item>
-      <title>Resume</title>
-      <link>https://zhouchengyu.top/posts/resume/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://zhouchengyu.top/posts/resume/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+      <title>常见问题 / How To&#39;s Guide</title>
+      <link>https://zhouchengyu.top/posts/papermod/papermod-faq/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/posts/papermod/papermod-faq/</guid>
+      <description>We&amp;rsquo;ll try to answer frequently asked qestions by users.</description>
     </item>
     <item>
-      <title>Code Syntax Guide</title>
-      <link>https://zhouchengyu.top/posts/code_syntax/</link>
+      <title>社交icon/分享icon</title>
+      <link>https://zhouchengyu.top/posts/papermod/papermod-icons/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/posts/papermod/papermod-icons/</guid>
+      <description>List of all Icons supported by PaperMod</description>
+    </item>
+    <item>
+      <title>富文本和短代码</title>
+      <link>https://zhouchengyu.top/posts/syntax/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://zhouchengyu.top/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+      <guid>https://zhouchengyu.top/posts/syntax/rich-content/</guid>
+      <description>Hugo 短代码简洁</description>
+    </item>
+    <item>
+      <title>数学公式</title>
+      <link>https://zhouchengyu.top/posts/syntax/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/posts/syntax/math-typesetting/</guid>
+      <description>对 KaTeX的简短说明</description>
     </item>
     <item>
       <title>aboutme</title>
@@ -68,6 +89,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://zhouchengyu.top/aboutme/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>简历</title>
+      <link>https://zhouchengyu.top/posts/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/posts/resume/</guid>
+      <description>欢迎查看我的简历，如果您有合适的工作机会，我将不胜感激您的推荐。谢谢！</description>
     </item>
   </channel>
 </rss>

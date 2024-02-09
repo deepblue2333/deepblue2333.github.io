@@ -2,345 +2,325 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhouchengyu.top/posts/papermod/papermod-installation/</loc>
+    <loc>https://zhouchengyu.top/en/posts/papermod/papermod-installation/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/posts/papermod/papermod-installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://zhouchengyu.top/posts/papermod/papermod-installation/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/posts/papermod/papermod-installation/"
+                />
   </url><url>
-    <loc>https://zhouchengyu.top/posts/papermod/papermod-features/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://zhouchengyu.top/en/posts/syntax/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/posts/papermod/papermod-features/"
+                href="https://zhouchengyu.top/posts/syntax/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zhouchengyu.top/posts/papermod/papermod-features/"
+                href="https://zhouchengyu.top/en/posts/syntax/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://zhouchengyu.top/posts/papermod/papermod-faq/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://zhouchengyu.top/en/</loc>
+    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/posts/papermod/papermod-faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouchengyu.top/posts/papermod/papermod-faq/"
-                />
-  </url><url>
-    <loc>https://zhouchengyu.top/posts/papermod/papermod-icons/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/posts/papermod/papermod-icons/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouchengyu.top/posts/papermod/papermod-icons/"
-                />
-  </url><url>
-    <loc>https://zhouchengyu.top/posts/papermod/papermod-variables/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/posts/papermod/papermod-variables/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouchengyu.top/posts/papermod/papermod-variables/"
-                />
-  </url><url>
-    <loc>https://zhouchengyu.top/categories/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouchengyu.top/categories/"
-                />
-  </url><url>
-    <loc>https://zhouchengyu.top/tags/code/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/tags/code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouchengyu.top/tags/code/"
-                />
-  </url><url>
-    <loc>https://zhouchengyu.top/tags/gist/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/tags/gist/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouchengyu.top/tags/gist/"
-                />
-  </url><url>
-    <loc>https://zhouchengyu.top/tags/markdown/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouchengyu.top/tags/markdown/"
-                />
-  </url><url>
-    <loc>https://zhouchengyu.top/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://zhouchengyu.top/"
                 />
-  </url><url>
-    <loc>https://zhouchengyu.top/posts/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/posts/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://zhouchengyu.top/en/"
+                />
+  </url><url>
+    <loc>https://zhouchengyu.top/en/posts/</loc>
+    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="https://zhouchengyu.top/posts/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/posts/"
+                />
   </url><url>
-    <loc>https://zhouchengyu.top/series/resume/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
+    <loc>https://zhouchengyu.top/en/posts/resume/</loc>
+    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/series/resume/"
+                href="https://zhouchengyu.top/posts/resume/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zhouchengyu.top/series/resume/"
+                href="https://zhouchengyu.top/en/posts/resume/"
                 />
   </url><url>
-    <loc>https://zhouchengyu.top/categories/resume/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/categories/resume/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouchengyu.top/categories/resume/"
-                />
-  </url><url>
-    <loc>https://zhouchengyu.top/posts/resume/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhouchengyu.top/series/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouchengyu.top/series/"
-                />
-  </url><url>
-    <loc>https://zhouchengyu.top/tags/syntax/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/tags/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouchengyu.top/tags/syntax/"
-                />
-  </url><url>
-    <loc>https://zhouchengyu.top/tags/</loc>
-    <lastmod>2024-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouchengyu.top/tags/"
-                />
-  </url><url>
-    <loc>https://zhouchengyu.top/tags/docs/</loc>
+    <loc>https://zhouchengyu.top/en/posts/papermod/papermod-faq/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/tags/docs/"
+                href="https://zhouchengyu.top/posts/papermod/papermod-faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zhouchengyu.top/tags/docs/"
+                href="https://zhouchengyu.top/en/posts/papermod/papermod-faq/"
                 />
   </url><url>
-    <loc>https://zhouchengyu.top/tags/papermod/</loc>
+    <loc>https://zhouchengyu.top/en/posts/papermod/papermod-features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/tags/papermod/"
+                href="https://zhouchengyu.top/posts/papermod/papermod-features/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://zhouchengyu.top/en/posts/papermod/papermod-features/"
+                />
+  </url><url>
+    <loc>https://zhouchengyu.top/en/tags/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="https://zhouchengyu.top/tags/papermod/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/tags/papermod/"
+                />
   </url><url>
-    <loc>https://zhouchengyu.top/series/papermod/</loc>
+    <loc>https://zhouchengyu.top/en/series/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/series/papermod/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://zhouchengyu.top/series/papermod/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/series/papermod/"
+                />
   </url><url>
-    <loc>https://zhouchengyu.top/posts/papermod/</loc>
+    <loc>https://zhouchengyu.top/en/posts/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/posts/papermod/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://zhouchengyu.top/posts/papermod/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/posts/papermod/"
+                />
   </url><url>
-    <loc>https://zhouchengyu.top/posts/code_syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhouchengyu.top/categories/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://zhouchengyu.top/en/series/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/categories/syntax/"
+                href="https://zhouchengyu.top/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zhouchengyu.top/categories/syntax/"
+                href="https://zhouchengyu.top/en/series/"
                 />
   </url><url>
-    <loc>https://zhouchengyu.top/categories/themes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://zhouchengyu.top/en/posts/papermod/papermod-icons/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/categories/themes/"
+                href="https://zhouchengyu.top/posts/papermod/papermod-icons/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zhouchengyu.top/categories/themes/"
+                href="https://zhouchengyu.top/en/posts/papermod/papermod-icons/"
                 />
   </url><url>
-    <loc>https://zhouchengyu.top/series/themes-guide/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://zhouchengyu.top/en/tags/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/series/themes-guide/"
+                href="https://zhouchengyu.top/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://zhouchengyu.top/en/tags/"
+                />
+  </url><url>
+    <loc>https://zhouchengyu.top/en/posts/papermod/papermod-variables/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhouchengyu.top/posts/papermod/papermod-variables/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/posts/papermod/papermod-variables/"
+                />
+  </url><url>
+    <loc>https://zhouchengyu.top/en/tags/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhouchengyu.top/tags/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/tags/syntax/"
+                />
+  </url><url>
+    <loc>https://zhouchengyu.top/en/posts/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhouchengyu.top/posts/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/posts/syntax/"
+                />
+  </url><url>
+    <loc>https://zhouchengyu.top/en/series/themes-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="https://zhouchengyu.top/series/themes-guide/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/series/themes-guide/"
+                />
   </url><url>
-    <loc>https://zhouchengyu.top/aboutme/</loc>
+    <loc>https://zhouchengyu.top/en/posts/syntax/code_syntax/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/aboutme/"
+                href="https://zhouchengyu.top/posts/syntax/code_syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://zhouchengyu.top/en/posts/syntax/code_syntax/"
+                />
+  </url><url>
+    <loc>https://zhouchengyu.top/en/posts/syntax/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhouchengyu.top/posts/syntax/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/posts/syntax/rich-content/"
+                />
+  </url><url>
+    <loc>https://zhouchengyu.top/en/posts/syntax/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhouchengyu.top/posts/syntax/math-typesetting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/posts/syntax/math-typesetting/"
+                />
+  </url><url>
+    <loc>https://zhouchengyu.top/en/posts/syntax/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhouchengyu.top/posts/syntax/emoji-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/posts/syntax/emoji-support/"
+                />
+  </url><url>
+    <loc>https://zhouchengyu.top/en/aboutme/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="https://zhouchengyu.top/aboutme/"
                 />
-  </url><url>
-    <loc>https://zhouchengyu.top/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhouchengyu.top/zh/archives/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://zhouchengyu.top/en/aboutme/"
+                />
+  </url><url>
+    <loc>https://zhouchengyu.top/en/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="https://zhouchengyu.top/archives/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/archives/"
+                />
   </url><url>
-    <loc>https://zhouchengyu.top/search/</loc>
+    <loc>https://zhouchengyu.top/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhouchengyu.top/zh/search/"
+                href="https://zhouchengyu.top/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://zhouchengyu.top/en/categories/"
+                />
+  </url><url>
+    <loc>https://zhouchengyu.top/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="https://zhouchengyu.top/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhouchengyu.top/en/search/"
                 />
   </url>
 </urlset>

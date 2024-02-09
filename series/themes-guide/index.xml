@@ -10,15 +10,22 @@
       <link>https://zhouchengyu.top/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <language>zh</language>
+    <lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhouchengyu.top/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Code Syntax Guide</title>
-      <link>https://zhouchengyu.top/posts/code_syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://zhouchengyu.top/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+      <title>code格式</title>
+      <link>https://zhouchengyu.top/posts/syntax/code_syntax/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/posts/syntax/code_syntax/</guid>
+      <description>展示基本代码语法和HTML元素格式的示例文章。</description>
+    </item>
+    <item>
+      <title>Markdown格式</title>
+      <link>https://zhouchengyu.top/posts/syntax/markdown-syntax/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/posts/syntax/markdown-syntax/</guid>
+      <description>展示基本的Markdown语法和HTML元素格式的示例文章。</description>
     </item>
   </channel>
 </rss>

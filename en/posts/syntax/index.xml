@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syntax on MyBlog</title>
+    <link>https://zhouchengyu.top/en/posts/syntax/</link>
+    <description>Recent content in syntax on MyBlog</description>
+    <image>
+      <title>MyBlog</title>
+      <url>https://zhouchengyu.top/images/papermod-cover.png</url>
+      <link>https://zhouchengyu.top/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zhouchengyu.top/en/posts/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://zhouchengyu.top/en/posts/syntax/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/en/posts/syntax/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Code Syntax Guide</title>
+      <link>https://zhouchengyu.top/en/posts/syntax/code_syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/en/posts/syntax/code_syntax/</guid>
+      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>https://zhouchengyu.top/en/posts/syntax/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/en/posts/syntax/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://zhouchengyu.top/en/posts/syntax/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/en/posts/syntax/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://zhouchengyu.top/en/posts/syntax/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhouchengyu.top/en/posts/syntax/emoji-support/</guid>
+      <description>如何在hugo中使用emoji</description>
+    </item>
+  </channel>
+</rss>
